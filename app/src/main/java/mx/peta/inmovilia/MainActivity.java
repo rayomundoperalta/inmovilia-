@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             La dirección del servidor es:
 
             http://valjson.artica.com.mx/validador.svc
+
             esta liga devuelve la descripción del servicio
 
          */
